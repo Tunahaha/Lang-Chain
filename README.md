@@ -23,12 +23,12 @@ The repository consists of the following key files:
 
 2. Clone this repository to your local machine:
     ```
-    git clone https://github.com/your-repository/lang-chain-application.git
+    git clone https://github.com/Tunahaha/Lang-Chain.git
     ```
 
 3. Switch to the directory of the repository you just cloned:
     ```
-    cd lang-chain-application
+    cd Lang-Chain
     ```
 
 4. Start Jupyter Notebook:
